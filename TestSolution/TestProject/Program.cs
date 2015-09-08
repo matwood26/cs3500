@@ -15,5 +15,12 @@ namespace TestProject
 
         //aosdifjasoidrjaosidr
         //oiasjdoriajsroiasr
+
+        //asdfoasjoriasjoir
+
+        int callMe(int x)
+        {
+            return x;
+        }
     }
 }
